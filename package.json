@@ -8,7 +8,7 @@
 		"email": "welefen@gmail.com",
 		"web": "http://www.welefen.com"
 	},
-    "minimum-stability": "*@dev",
+    "minimum-stability": "dev-master",
     "contributors": [],
 	"bugs": {
 		"mail": "welefen@gmail.com",
