@@ -8,7 +8,8 @@
 		"email": "welefen@gmail.com",
 		"web": "http://www.welefen.com"
 	},
-	"contributors": [],
+    "minimum-stability": "*@dev",
+    "contributors": [],
 	"bugs": {
 		"mail": "welefen@gmail.com",
 		"web": "http://www.welefen.com"
@@ -20,7 +21,7 @@
 	"repositories":[{
 		"type": "git",
 		"url": "https://github.com/welefen/Fl",
-		"path": "packages"	
+		"path": "packages"
 	}],
 	"dependencies":{},
 	"homepage": "http://www.flkit.org"
